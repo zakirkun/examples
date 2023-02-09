@@ -26,7 +26,7 @@ require (
 	github.com/asim/go-micro/plugins/server/http/v4 v4.0.0-00010101000000-000000000000
 	github.com/asim/go-micro/plugins/wrapper/select/roundrobin/v4 v4.0.0-00010101000000-000000000000
 	github.com/asim/go-micro/plugins/wrapper/select/shard/v4 v4.0.0-00010101000000-000000000000
-	github.com/gin-gonic/gin v1.7.4
+	github.com/gin-gonic/gin v1.7.7
 	github.com/golang/glog v1.0.0
 	github.com/golang/protobuf v1.5.2
 	github.com/grpc-ecosystem/grpc-gateway v1.16.0
